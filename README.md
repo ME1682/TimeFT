@@ -16,7 +16,7 @@ pip install -r requirements.txt
 
 ## Run the Code
 
-All the methods compared in the paper can be run as follows. Our method is denoted as "TimeMAC".
+Experiments can be run as follows:
 
 ```
 $bash ./scripts/TimeFT.sh
