@@ -23,7 +23,6 @@ $bash ./scripts/TimeFT.sh
 ```
 
 ## Acknowledge
-Special thanks to the following repositories for their invaluable code and prompt.
+Special thanks to the following repositories for their invaluable code.
 
 Our code are partially adapted from [Time-Series-Library](https://github.com/thuml/Time-Series-Library) and [TimeMosaic](https://github.com/BenchCouncil/TimeMosaic).
-
