@@ -1,6 +1,6 @@
-# Code for "TimeFT: Rethinking Time Series Tokenization from a Frequency Domain Perspective" 
+# Code for "Rethinking Time Series Tokenization from a Frequency Domain Perspective" 
 
-"TimeFT: Rethinking Time Series Tokenization from a Frequency Domain Perspective" is under reviewing at NIPS 2026.
+"Rethinking Time Series Tokenization from a Frequency Domain Perspective" is under reviewing at NIPS 2026.
 
 ## What is TimeFT?
 
