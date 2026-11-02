@@ -1,5 +1,5 @@
-<!--
 <div align="center">
+<!--
 <img src="figs/logo.png" alt="Logo" width="120"/>
 -->
 <h1><b>
