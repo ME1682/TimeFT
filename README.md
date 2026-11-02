@@ -49,9 +49,11 @@
 
 🚩 **News** (Sep. 2026): TimeOmni-1 has been accepted to NeuIPS 2026! 🎉
 
-## 📦 What is TimeFT?
+## 🧪 What is TimeFT?
 
 Tokenization that partitions time series into subsequences has become a foundational paradigm in modern time series modeling. However, we find that current tokenization strategies inherently introduce spectral distortions, forcing the learned representations to diverge from the true underlying patterns such as trend, periodicity, and seasonality, thereby impairing model performance. Through theoretical analysis from a frequency perspective, we derive the boundary conditions under which such distortions occur. To overcome this distortion, we propose **TimeFT**, a nearly distortion-free frequency-based tokenizer for time series data. TimeFT obtains tokens through frequency-domain partitioning, frequency shifting, and Nyquist sampling. The method does not have additional learnable parameters, incurs negligible computational complexity, and can serve as a drop-in replacement for existing tokenizers. Our extensive experiments on diverse tasks such as forecasting, classification, and anomaly detection demonstrate that TimeFT consistently and significantly improves performance.
+
+![framework](figs/main_TimeFT.pdf)
 
 ## 🛠️ Setup
 
@@ -69,7 +71,7 @@ Experiments can be run as follows:
 $bash ./scripts/TimeFT.sh
 ```
 
-## 📊 Benchmarks
+## 📦 Benchmarks
 **Table. Model Size Scaling Comparison**
 
 <p style="margin-top:13px;font-size:11px;opacity:0.7">
