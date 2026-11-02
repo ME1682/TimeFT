@@ -1,7 +1,7 @@
-
+<!--
 <div align="center">
 <img src="figs/logo.png" alt="Logo" width="120"/>
-
+-->
 <h1><b>
 (NeuIPS'26) Rethinking Time Series Tokenization from a Frequency Domain Perspective
 </b></h1>
